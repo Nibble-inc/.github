@@ -1,48 +1,57 @@
-# 🚀 Nibble 
+<div align="center">
 
-> En Nibble somos un equipo de desarrolladores con una visión clara: revolucionar la forma en la que la tecnología se integra en la vida diaria de nuestra comunidad a través de software a medida, automatizaciones e interfaces modernas.
+# 🚀 Nibble
 
-📍 **Villa Mercedes-San Luis, Argentina** | 🌐 [Sitio Web / Portfolio](https://nibble-inc.github.io/Portfolio/) | [Sitio Web / Empresa](https://nibble-web-lemon.vercel.app/) |✉️ [nibblework@gmail.com](mailto:nibblework@gmail.com) | 📸 [@nibbledev](https://instagram.com/nibbledev)
+### Tecnología que se integra en tu día a día
+
+*Revolucionamos la forma en la que el software se integra en la vida diaria de nuestra comunidad a través de soluciones a medida, automatizaciones e interfaces modernas.*
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+📍 **Villa Mercedes, San Luis, Argentina**
+
+[🌐 Portfolio](https://nibble-inc.github.io/Portfolio/) &nbsp;•&nbsp; [🏢 Sitio Web](https://nibble-web-lemon.vercel.app/) &nbsp;•&nbsp; [✉️ Email](mailto:nibblework@gmail.com) &nbsp;•&nbsp; [📸 Instagram](https://www.instagram.com/nibble.work/)
+
+</div>
 
 ---
 
-## 🛠️ Stack Tecnológico Principal
+## 🛠️ Stack Tecnológico
 
-- **Lenguajes:** TypeScript, JavaScript, Python
-- **Especialidades:** Automatizaciones y Bots, Plataformas Web, Gestión de Servicios y Turnos
+| Categoría | Tecnologías |
+|---|---|
+| **Lenguajes** | TypeScript · JavaScript · Python |
+| **Especialidades** | Automatizaciones y Bots · Plataformas Web · Gestión de Servicios y Turnos |
 
 ---
 
 ## 🌟 Proyectos Destacados
 
-### 1. 🌐 [Portfolio Institucional](https://nibble-inc.github.io/Portfolio/)
-*Plataforma oficial de presentación de Nibble.inc.*
-- **Tecnologías:** TypeScript, HTML5, CSS3 / Frameworks modernos.
-- **Descripción:** Sitio web responsivo diseñado para mostrar la identidad de la empresa, nuestros servicios, integrantes y canales de contacto directo.
-- **Estado:** Público | [Ver Demo en vivo](https://nibble-inc.github.io/Portfolio/)
+| Proyecto | Descripción | Stack | Estado |
+|---|---|---|---|
+| 🌐 **[Portfolio Institucional](https://nibble-inc.github.io/Portfolio/)** | Sitio web responsivo con la identidad de la empresa, servicios e integrantes. | TypeScript, HTML5, CSS3 | ![Live](https://img.shields.io/badge/Live-success?style=flat-square) |
+| 🤖 **[Auto-Service](https://nibbot.com.ar/)** | Flujo automatizado vía WhatsApp para consultas y gestión de solicitudes en tiempo real. | Python, Webhooks | ![Live](https://img.shields.io/badge/Live-success?style=flat-square) |
+| 📅 **[Gestor de Turnos](https://app.alapelotita.com.ar/)** | Plataforma para asignación de turnos y gestión de calendarios, reduciendo el ausentismo. | JavaScript, Node.js | ![En desarrollo](https://img.shields.io/badge/En_desarrollo-yellow?style=flat-square) |
 
 ---
 
-### 2. 🤖 Auto-Service (Automatización vía WhatsApp)
-*Sistema integral de atención y gestión automatizada.*
-- **Tecnologías:** Python, APIs de mensajería / Webhooks.
-- **Descripción:** Flujo inteligente diseñado para procesar consultas, automatizar respuestas y canalizar solicitudes de servicios en tiempo real directamente desde WhatsApp, optimizando los tiempos de respuesta para negocios y comercios locales.
-- **Estado:** Público | [Nibbot](https://nibbot.com.ar/)
+## 📊 Actividad de la Organización
 
----
-
-### 3. 📅 Gestor de Turnos
-*Solución digital para la administración y reserva de citas.*
-- **Tecnologías:** JavaScript, Node.js / Arquitectura web.
-- **Descripción:** Plataforma orientada a simplificar la asignación de turnos, gestión de calendarios y disponibilidad para profesionales y centros de servicios, reduciendo el ausentismo y agilizando la coordinación con los clientes.
-- **Estado:** [A la pelotita](https://app.alapelotita.com.ar/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nibble-inc&layout=compact&theme=dark&hide_border=true)
 
 ---
 
 ## 👥 Equipo y Contacto
 
-¿Tenés una idea o querés digitalizar tu negocio?
+¿Tenés una idea o querés digitalizar tu negocio? Escribinos.
 
-- **Email:** [nibblework@gmail.com](mailto:nibblework@gmail.com)
-- **Instagram:** [@nibbledev](https://instagram.com/nibbledev)
-- **Organización GitHub:** [@Nibble-inc](https://github.com/Nibble-inc)
+📧 [nibblework@gmail.com](mailto:nibblework@gmail.com) &nbsp;•&nbsp; 📸 [@nibble.work](https://www.instagram.com/nibble.work/) &nbsp;•&nbsp; 🐙 [@Nibble-inc](https://github.com/Nibble-inc)
+
+<div align="center">
+
+<sub>© 2026 Nibble.inc — Hecho con 💻 en Villa Mercedes, Argentina</sub>
+
+</div>
