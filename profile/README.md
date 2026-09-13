@@ -1,8 +1,8 @@
-# 🚀 Nibble.inc
+# 🚀 Nibble 
 
 > En Nibble somos un equipo de desarrolladores con una visión clara: revolucionar la forma en la que la tecnología se integra en la vida diaria de nuestra comunidad a través de software a medida, automatizaciones e interfaces modernas.
 
-📍 **San Luis, Argentina** | 🌐 [Sitio Web / Portfolio](https://nibble-inc.github.io/Portfolio/) | [Sitio Web / Empresa](https://nibble-web-lemon.vercel.app/) |✉️ [nibblework@gmail.com](mailto:nibblework@gmail.com) | 📸 [@nibbledev](https://instagram.com/nibbledev)
+📍 **Villa Mercedes-San Luis, Argentina** | 🌐 [Sitio Web / Portfolio](https://nibble-inc.github.io/Portfolio/) | [Sitio Web / Empresa](https://nibble-web-lemon.vercel.app/) |✉️ [nibblework@gmail.com](mailto:nibblework@gmail.com) | 📸 [@nibbledev](https://instagram.com/nibbledev)
 
 ---
 
