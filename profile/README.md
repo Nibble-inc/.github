@@ -34,13 +34,7 @@
 |---|---|---|---|
 | 🌐 **[Portfolio Institucional](https://nibble-inc.github.io/Portfolio/)** | Sitio web responsivo con la identidad de la empresa, servicios e integrantes. | TypeScript, HTML5, CSS3 | ![Live](https://img.shields.io/badge/Live-success?style=flat-square) |
 | 🤖 **[Auto-Service](https://nibbot.com.ar/)** | Flujo automatizado vía WhatsApp para consultas y gestión de solicitudes en tiempo real. | Python, Webhooks | ![Live](https://img.shields.io/badge/Live-success?style=flat-square) |
-| 📅 **[Gestor de Turnos](https://app.alapelotita.com.ar/)** | Plataforma para asignación de turnos y gestión de calendarios, reduciendo el ausentismo. | JavaScript, Node.js | ![En desarrollo](https://img.shields.io/badge/En_desarrollo-yellow?style=flat-square) |
-
----
-
-## 📊 Actividad de la Organización
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nibble-inc&layout=compact&theme=dark&hide_border=true)
+| 📅 **[Gestor de Turnos](https://app.alapelotita.com.ar/)** | Plataforma para asignación de turnos y gestión de calendarios, reduciendo el ausentismo. | JavaScript, Node.js | ![Live](https://img.shields.io/badge/Live-success?style=flat-square) |
 
 ---
 
