@@ -13,7 +13,7 @@
 
 📍 **Villa Mercedes, San Luis, Argentina**
 
-[🌐 Portfolio](https://nibble-inc.github.io/Portfolio/) &nbsp;•&nbsp; [🏢 Sitio Web](https://nibble-web-lemon.vercel.app/) &nbsp;•&nbsp; [✉️ Email](mailto:nibblework@gmail.com) &nbsp;•&nbsp; [📸 Instagram](https://www.instagram.com/nibble.work/)
+ [🏢 Sitio Web](https://nibble-web-lemon.vercel.app/) &nbsp;•&nbsp; [✉️ Email](mailto:nibblework@gmail.com) &nbsp;•&nbsp; [📸 Instagram](https://www.instagram.com/nibble.work/)
 
 </div>
 
